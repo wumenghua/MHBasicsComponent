@@ -1,0 +1,6 @@
+framework module MHBasicsComponent {
+  umbrella header "MHBasicsComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}
